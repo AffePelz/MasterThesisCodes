@@ -3,6 +3,8 @@ The codes presented in this repository was used to generate the numerical experi
 
 A part of my thesis is available as a preprint (under supervision of Professor Tuyen Trung Truong): https://arxiv.org/abs/2405.05834
 
+The file "Tester1" consists of the non-trivial zeros of the Riemann xi function in a rectangle with Re(s) between 0 and 1 and Im(s) between T and T+1, where T = 10^9. It uses different initial points than "Tester1".
+
 The file "Tester1" consists of the non-trivial zeros of the Riemann xi function in a rectangle with Re(s) between 0 and 1 and Im(s) between T and T+1, where T = 10^9.
 
 The file "Tester2" consists of the non-trivial zeros of the Riemann xi function in a rectangle with Re(s) between 0 and 1 and Im(s) between T and T+1, where T = 10^10.
